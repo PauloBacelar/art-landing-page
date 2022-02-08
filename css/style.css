@@ -118,3 +118,8 @@ i {
   height: 250px;
   margin-bottom: 20px;
 }
+
+.row {
+  margin: 0 auto;
+  max-width: 95%;
+}
